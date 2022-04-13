@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "660743116300",
+    "firebase_url": "https://carrider-472f1-default-rtdb.firebaseio.com",
+    "project_id": "carrider-472f1",
+    "storage_bucket": "carrider-472f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660743116300:android:c55f9ea5030ef28244c029",
+        "android_client_info": {
+          "package_name": "com.example.car_rider.car_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660743116300-str1aeikcguoac2r51te6ajrttkake4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPk5HunJuU753Oc9BdIluG8YTl_d__P1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660743116300-str1aeikcguoac2r51te6ajrttkake4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
